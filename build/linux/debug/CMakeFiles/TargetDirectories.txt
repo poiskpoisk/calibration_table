@@ -1,0 +1,14 @@
+/home/ama/AndroidStudioProjects/flutter_app_first/build/linux/debug/CMakeFiles/install/strip.dir
+/home/ama/AndroidStudioProjects/flutter_app_first/build/linux/debug/CMakeFiles/edit_cache.dir
+/home/ama/AndroidStudioProjects/flutter_app_first/build/linux/debug/CMakeFiles/flutter_app_first.dir
+/home/ama/AndroidStudioProjects/flutter_app_first/build/linux/debug/CMakeFiles/install.dir
+/home/ama/AndroidStudioProjects/flutter_app_first/build/linux/debug/CMakeFiles/rebuild_cache.dir
+/home/ama/AndroidStudioProjects/flutter_app_first/build/linux/debug/CMakeFiles/list_install_components.dir
+/home/ama/AndroidStudioProjects/flutter_app_first/build/linux/debug/CMakeFiles/install/local.dir
+/home/ama/AndroidStudioProjects/flutter_app_first/build/linux/debug/flutter/CMakeFiles/install/strip.dir
+/home/ama/AndroidStudioProjects/flutter_app_first/build/linux/debug/flutter/CMakeFiles/install/local.dir
+/home/ama/AndroidStudioProjects/flutter_app_first/build/linux/debug/flutter/CMakeFiles/flutter_assemble.dir
+/home/ama/AndroidStudioProjects/flutter_app_first/build/linux/debug/flutter/CMakeFiles/edit_cache.dir
+/home/ama/AndroidStudioProjects/flutter_app_first/build/linux/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/ama/AndroidStudioProjects/flutter_app_first/build/linux/debug/flutter/CMakeFiles/list_install_components.dir
+/home/ama/AndroidStudioProjects/flutter_app_first/build/linux/debug/flutter/CMakeFiles/install.dir
